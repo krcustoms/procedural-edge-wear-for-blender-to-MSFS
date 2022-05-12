@@ -12,7 +12,7 @@ Add the bevel map you've just baked to the Bevel Map Texture node in the WEAR_SH
 
 Add an appropirate scratch or grunge texture to the Scratch\Grunge Texture node in the same material. You can use the one I've provided if needed.
 
-Play around with the values in any of the procedural nodes to achieve the look you want.
+Play around with the values in any of the map range or math nodes to achieve the look you want.
 
 You're now ready to bake your albedo, roughness, ambient occlusion, metallic, and normal maps.
 
